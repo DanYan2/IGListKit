@@ -5,7 +5,7 @@ inhibit_all_warnings!
 workspace 'IGListKit'
 
 target 'IGListKitTests' do
-    platform :ios, '8.0'
+    platform :ios, '11.0'
     pod 'OCMock', '~> 3.0'
 end
 
